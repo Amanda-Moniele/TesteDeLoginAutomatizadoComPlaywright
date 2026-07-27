@@ -15,3 +15,7 @@
 🔹 Verificação de URL e elementos da página  
 🔹 Uso de assertions com expect  
 🔹 Organização de testes utilizando o Playwright Test.  
+
+[Testes automatizados](https://github.com/Amanda-Moniele/TesteDeLoginAutomatizadoComPlaywright/blob/main/playwrightTesteLoginpng.png?raw=true)
+[Texto alternativo](<img width="1918" height="1004" alt="image" src="https://github.com/user-attachments/assets/2444ba13-6c5c-49cd-b74a-212c57ffd779" />
+)
