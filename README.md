@@ -16,6 +16,6 @@
 🔹 Uso de assertions com expect  
 🔹 Organização de testes utilizando o Playwright Test.  
 
-[Testes automatizados](https://github.com/Amanda-Moniele/TesteDeLoginAutomatizadoComPlaywright/blob/main/playwrightTesteLoginpng.png?raw=true)
-[Texto alternativo](<img width="1918" height="1004" alt="image" src="https://github.com/user-attachments/assets/2444ba13-6c5c-49cd-b74a-212c57ffd779" />
-)
+![Nome da imagem](https://github.com/user-attachments/assets/3f81e12b-e5af-4f00-8165-fd2eeee00498)
+![Nome da imagem](https://github.com/Amanda-Moniele/TesteDeLoginAutomatizadoComPlaywright/blob/main/playwrightSenhaIncorreta.png?raw=true)
+![Nome da imagem](https://github.com/user-attachments/assets/16480619-e493-4fdf-b5cb-ad65a2f13964)
